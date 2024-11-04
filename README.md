@@ -1,6 +1,6 @@
 - 👋 Olá! Eu sou o Túlio (@Tulio369)
-- 👀 Tenho interesse em desenvolvimento mobile, especialmente com Flutter e Swift, e sou apaixonado por aprender novas linguagens de programação!
-- 🌱 Atualmente, estou aprendendo Java e Dart para construir aplicativos móveis dinâmicos e eficientes.
+- 👀 Tenho interesse em desenvolvimento mobile, especialmente com Flutter, e sou apaixonado por aprender novas linguagens de programação!
+- 🌱 Atualmente, estou aprendendo Java e Dart|Flutter para construir aplicativos móveis dinâmicos e eficientes.
 - 💞️ Estou aberto a colaborar em projetos relacionados ao desenvolvimento de apps mobile ou qualquer projeto inovador que ajude a aprimorar a lógica de programação.
 - 📫 Como me encontrar: Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/tuliolima1369) ou confira meu trabalho no [GitHub](https://github.com/Tulio369).
 - 😄 Pronomes: Ele/Dele
